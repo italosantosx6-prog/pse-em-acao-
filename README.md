@@ -8,6 +8,8 @@ ações do **Programa Saúde na Escola (PSE)**.
 > Integrantes: Luiz Augusto da Rocha Bedendo (RA 26007445-2) e
 > Italo Fernandes Santos (RA 26003073-2)
 
+🎥 **Vídeo de apresentação:** https://youtu.be/hbg_6XFngG4
+
 ## Sobre o projeto
 
 O sistema permite cadastrar, listar, pesquisar e acompanhar ações
